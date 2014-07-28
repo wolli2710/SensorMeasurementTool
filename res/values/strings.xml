@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorMeasurementTool</string>
+    <string name="action_settings">Settings</string>
+    <string name="updateRate">0</string>
+    
+    <string name="button1">Normal</string>
+    <string name="button2">UI</string>
+    <string name="button3">Game</string>
+    <string name="button4">Fastest</string>
+    <string name="exitButton">Exit</string>
+    
+    <string name="currentUpdateRateText">SENSOR_DELAY_UI</string>
+    
+
+</resources>
